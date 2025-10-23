@@ -1,0 +1,150 @@
+1. 
+Entrada: 
+un número. 
+Proceso: verificar si número > 10 y < 50. 
+Salida: “Verdadero” o “Falso”.
+
+2. 
+Entrada: edad, nacionalidad. 
+Proceso: comprobar si edad ≥ 18 y nacionalidad = “colombiana”. 
+Salida: “Puede votar” o “No puede votar”.
+
+3.
+Entrada: un número.
+Proceso: comprobar si número < 20 o número > 40. 
+Salida: “Verdadero” o “Falso”.
+
+4.
+Entrada: nota, asistencia. 
+Proceso: verificar si nota ≥ 3.0 y asistencia ≥ 80%. 
+Salida: “Aprueba” o “No aprueba”.
+
+5. 
+Entrada:año. 
+Proceso: verificar si cumple (año % 4 == 0 y año %100 != 0) o (año %400 == 0). 
+Salida: “Es bisiesto” o “No es bisiesto”.
+
+1. 
+Entrada: número1, número2. 
+Proceso: realizar suma, resta, multiplicación y división. 
+Salida: mostrar los cuatro resultados.
+
+2. 
+Entrada: radio. 
+Proceso: Área = π * radio², Perímetro = 2 * π * radio. 
+Salida: área y perímetro.
+
+3.
+Entrada: precio del producto. 
+Proceso: precioFinal = precio + (precio * 0.19). 
+Salida: precio con IVA.
+
+4. 
+Entrada: grados Celsius. 
+Proceso: Fahrenheit = (Celsius * 9/5) + 32. 
+Salida: temperatura en Fahrenheit.
+
+5.
+Entrada: nota1, nota2, nota3. 
+Proceso: promedio = (nota1 + nota2 + nota3) / 3. 
+Salida: promedio.
+
+1. 
+Entrada: número. 
+Proceso: si número % 2 == 0 es par. 
+Salida: “Par” o “Impar”.
+
+2. 
+Entrada: edad. 
+Proceso: comparar si edad ≥ 18. 
+Salida: “Mayor de edad” o “Menor de edad”.
+
+3. 
+Entrada: valorCompra. 
+Proceso: si valor > 100.000 aplicar 10% de descuento. 
+Salida: total a pagar.
+
+4.
+Entrada: num1, num2, num3. 
+Proceso: comparar cuál es el mayor. 
+Salida: mostrar el número mayor.
+
+5. 
+Entrada: nota. 
+Proceso: asignar categoría según el valor. 
+Salida: Excelente, Bueno, Aprobado o Insuficiente.
+
+1.
+Entrada: nada.
+Proceso: mostrar números del 1 al 10.
+Salida: 1 al 10.
+
+2.
+Entrada: N. 
+Proceso: sumar desde 1 hasta N. 
+Salida: resultado total.
+
+3.
+Entrada: número.
+Proceso: generar tabla de multiplicar. 
+Salida: tabla generada.
+
+4.
+Entrada: nada. 
+Proceso: contar números pares entre 1 y 50. 
+Salida: cantidad de pares.
+
+5. 
+Entrada: cantidad N y notas. 
+Proceso: sumar todas y dividir entre N. 
+Salida: promedio.
+
+1.
+Entrada: 5 números. P
+roceso: almacenarlos y sumarlos. 
+Salida: suma total.
+
+2. 
+Entrada: 10 números. 
+Proceso: encontrar máximo y mínimo. 
+Salida: mayor y menor.
+
+3. 
+Entrada: N números. 
+Proceso: contar positivos y negativos. 
+Salida: cantidad de positivos y negativos.
+
+4. 
+Entrada: arreglo de números.
+Proceso: invertir el orden. 
+Salida: arreglo invertido.
+
+5. 
+Entrada: N notas.
+Proceso: contar cuántas son ≥ 3.0. 
+Salida: cantidad de aprobadas.
+
+1. 
+Entrada: nombre, edad. 
+Proceso: verificar si edad ≥ 18.
+Salida: mayor o menor de edad.
+
+2. 
+Entrada: titular, saldo, valor. 
+Proceso: depositar o retirar y actualizar saldo.
+Salida: saldo actual.
+
+3.
+Entrada: base, altura. 
+Proceso: área = base × altura, perímetro = 2(base + altura). 
+Salida: área y perímetro.
+
+4. 
+Entrada: nombre, notas.
+Proceso: calcular promedio y verificar si ≥ 3.0.
+Salida: promedio y si aprueba.
+
+5. 
+Entrada: nombre, precio, cantidad, descuento.
+Proceso: total = precio × cantidad – descuento. 
+Salida: valor total.
